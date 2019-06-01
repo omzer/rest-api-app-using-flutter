@@ -1,6 +1,6 @@
 # Android & IOS App using Flutter
 
-Problem Statment:
+## Problem Statment:
 
 *Using this web service: http://jsonplaceholder.typicode.com*
 - /users
@@ -14,7 +14,6 @@ Make an app consist of two taps:
 ## Video:
 
 This is a screen-record for me using the App:[Youtube Video](https://youtu.be/MTFP3WI3eTI)
-
 
 
 
