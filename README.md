@@ -1,16 +1,20 @@
-# rest_test
+# Android & IOS App using Flutter
 
-A new Flutter project.
+Problem Statment:
 
-## Getting Started
+*Using this web service: http://jsonplaceholder.typicode.com*
+- /users
+- /photos
 
-This project is a starting point for a Flutter application.
+Make an app consist of two taps:
+- Users tab: The list of users should show the name and email of the user. Selecting the user will show new details screen with all others user’s details. 
+- Photos tab: list of photos should show a photo thumbnail and photo title. The list of photos should be organized in sections using the “albumid” as the section title. Selecting photo will show the full screen image in new screen using the “url” attribute. 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Video:
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+This is a screen-record for me using the App:[Youtube Video](https://youtu.be/MTFP3WI3eTI)
+
+
+
+
