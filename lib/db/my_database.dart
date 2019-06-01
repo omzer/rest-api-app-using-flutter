@@ -14,6 +14,7 @@ class MyDatabase {
       Uri.encodeFull(_usersLink),
       headers: {'Accept': 'Application/json'},
     );
+    // This is a comment!
     List<Map<String, dynamic>> list = [];
     List data = json.decode(response.body);
 
